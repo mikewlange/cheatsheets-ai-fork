@@ -1,6 +1,18 @@
 fork of https://github.com/kailashahirwar/cheatsheets-ai 
 
 
+# Few Selected Tools and Frameworks- Me like..
+https://github.com/mikewlange/leaf
+https://github.com/autumnai/collenchyma
+https://github.com/nikolaypavlov/MLPNeuralNet 
+https://github.com/mikewlange/neon 
+https://github.com/mikewlange/pattern
+https://github.com/Theano/Theano
+https://github.com/tensorflow/tensorflow
+https://github.com/scikit-learn/scikit-learn
+https://github.com/harvardnlp/im2markup
+
+
 # cheatsheets-ai
 Essential Cheat Sheets for deep learning and machine learning researchers
 
