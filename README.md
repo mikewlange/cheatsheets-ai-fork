@@ -1,5 +1,3 @@
-fork of https://github.com/kailashahirwar/cheatsheets-ai 
-
 
 # Few Selected Tools and Frameworks
 - https://github.com/rhiever/tpot
