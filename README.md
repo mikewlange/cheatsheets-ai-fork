@@ -1,6 +1,6 @@
 
 # Few Selected Tools and Frameworks
-- https://github.com/rhiever/tpot
+- https://github.com/mikewlange/Kettle--A-Tpot-fork-for-GPU-AI
 - https://github.com/mikewlange/leaf
 - https://github.com/autumnai/collenchyma
 - https://github.com/nikolaypavlov/MLPNeuralNet 
