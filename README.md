@@ -1,15 +1,9 @@
 
-# Few Selected Tools and Frameworks
-- https://github.com/mikewlange/Kettle--A-Tpot-fork-for-GPU-AI
-- https://github.com/mikewlange/leaf
-- https://github.com/autumnai/collenchyma
-- https://github.com/nikolaypavlov/MLPNeuralNet 
-- https://github.com/mikewlange/neon 
-- https://github.com/mikewlange/pattern
-- https://github.com/Theano/Theano
-- https://github.com/tensorflow/tensorflow
-- https://github.com/scikit-learn/scikit-learn
-- https://github.com/harvardnlp/im2markup
+# Kickstart your ML development
+- Model Converters
+https://github.com/mikewlange/deep-learning-model-convertor 
+
+....
 
 
 # cheatsheets-ai
